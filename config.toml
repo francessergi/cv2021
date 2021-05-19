@@ -2,7 +2,7 @@ baseURL = "https://francessergi.github.io/cv2021/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 theme = "almeida-cv"
-title = "Example - CV"
+title = "Sergi Francés - CV"
 publishDir = "./docs"
 
 
