@@ -1,8 +1,10 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://francessergi.github.io/cv2021/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 theme = "almeida-cv"
 title = "Example - CV"
+publishDir = "./docs"
+
 
 [params]
 colorDark = "#666"
