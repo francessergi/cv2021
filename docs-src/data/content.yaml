@@ -29,11 +29,11 @@ Experience:
   - Employer: Recipe-me!
     Place: Barcelona, ES
     Positions:
-      - Title: Full Stack - WEB APP DEVELOPER (Final Project)
+      - Title: WEB APP DEVELOPER (Final Project)
         Date: Apr 2021 - May 2021
         Details:
           - Creating a Frontend desing with React and Material UI.
-          - Developing a RESTful API.
+          - Developing a RESTful API with Swagger.
           - Establishing communication between Backend and Frontend.
           - Designing a Web-App architecture.
           - Generating a MySql database with Migrations.
