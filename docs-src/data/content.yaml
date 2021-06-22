@@ -10,9 +10,9 @@ BasicInfo:
     - Icon: fas fa-globe
       Info: linkedin.com/in/sergifrances
     - Icon: fas fa-map-marker-alt
-      Info: Barcelona
+      Info: Barcelona, ES
 
-Profile: Hi, it's me Sergi! I like to innovate continuously to feel in motion. I see challenges where others see walls I turn lessons into projects, and projects into success.
+Profile: Hi, it's me Sergi! I like to innovate continuously to feel in motion. I see challenges where others see walls I turn lessons into projects, and projects into success. My main goal is to evolve as a programmer, to grow tall and strong like a baobab.
 
 Experience:
   - Employer: Tiendeo
@@ -34,11 +34,11 @@ Experience:
         Details:
           - Creating a Frontend desing with React and Material UI.
           - Developing a RESTful API with Swagger.
-          - Establishing communication between Backend and Frontend.
-          - Designing a Web-App architecture.
+          - Communicating Backend and Frontend with Axios.
+          - Designing a Web-App architecture with UML.
           - Generating a MySql database with Migrations.
-          - Populating databases with Fixtures
-        Badges: ['React', 'Symfony', 'Hugo', 'Github', 'Swagger', 'MySql', 'Postman']
+          - Populating databases with Fixtures.
+        Badges: ['React', 'Symfony', 'Hugo', 'Github', 'Swagger', 'MySql', 'Postman', 'UML']
   - Employer: Magmacultura / Julia
     Place: Barcelona, ES
     Positions:
