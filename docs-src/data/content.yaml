@@ -10,16 +10,27 @@ BasicInfo:
     - Icon: fas fa-globe
       Info: linkedin.com/in/sergifrances
     - Icon: fas fa-map-marker-alt
-      Info: Barcelona, ES
+      Info: Mallorca, ES
 
-Profile: Hi, it's me Sergi! I like to innovate continuously to feel in motion. I see challenges where others see walls I turn lessons into projects, and projects into success. My main goal is to evolve as a programmer, to grow tall and strong like a baobab.
+Profile: Hi, it's me Sergi! I like to innovate continuously to feel in motion. I see challenges where others see walls I turn lessons into projects, and projects into success. My main goal is to evolve as a programmer, to grow tall and strong like a Sequoia.
 
 Experience:
+  - Employer: Autovidal
+    Place: Mallorca, ES
+    Positions:
+      - Title: Software Developer & Helpdesk
+        Date: Oct 2021 - Present
+        Details:
+          - Setting up PCs for our company users.
+          - Repairing PCs for company users.
+          - Maintaining company's software.
+          - Collaborating on software development for the company.
+        Badges: ['Windows', 'Server', 'Java', 'Repair', 'Mount', 'REST', 'Spring']
   - Employer: Tiendeo
     Place: Barcelona, ES
     Positions:
       - Title: Software Developer
-        Date: Jan 2021 - Present
+        Date: Jan 2021 - Set 2021
         Details:
           - Writing scripts for web scrapping
           - Repairing scripts from other developers
