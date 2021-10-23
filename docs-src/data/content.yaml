@@ -15,17 +15,15 @@ BasicInfo:
 Profile: Hi, it's me Sergi! I like to innovate continuously to feel in motion. I see challenges where others see walls I turn lessons into projects, and projects into success. My main goal is to evolve as a programmer, to grow tall and strong like a Sequoia.
 
 Experience:
-  - Employer: Autovidal
+  - Employer: Conjurer SA
     Place: Mallorca, ES
     Positions:
-      - Title: Software Developer & Helpdesk
+      - Title: PHP Backend Software Developer
         Date: Oct 2021 - Present
         Details:
-          - Setting up PCs for our company users.
-          - Repairing PCs for company users.
-          - Maintaining company's software.
-          - Collaborating on software development for the company.
-        Badges: ['Windows', 'Server', 'Java', 'Repair', 'Mount', 'REST', 'Spring']
+          - Developing new features for the Ikea Web
+          - Maintaining and fixing bugs from the Ikea Web
+        Badges: ['PHP', 'jQuery', 'Vue', 'Postgress', 'CMS', 'Dbeaver', 'Vagrant']
   - Employer: Tiendeo
     Place: Barcelona, ES
     Positions:
